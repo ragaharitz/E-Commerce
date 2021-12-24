@@ -1,3 +1,8 @@
-Daftar Minuman :
+Daftar Menu Makanan :
+
+1. Rendang
+2. Ayam Goreng
+
+Daftar Menu Minuman :
 
 1. Jus
